@@ -72,3 +72,5 @@
 
 
 
+# Contact
+For any inquiries or support, please contact malakismail706@gmail.com
