@@ -1,28 +1,28 @@
 **Image Caption Generator**
 
-  A deep learning project that generates meaningful captions for images by analyzing their content. This system combines computer vision and natural language processing techniques to describe the context of images accurately.
+      A deep learning project that generates meaningful captions for images by analyzing their content. This system combines computer vision and natural language processing techniques to describe the context of         images accurately.
 
 
 
 **Features**
 
-  •	Automatically generates descriptive captions for images.
+    •	Automatically generates descriptive captions for images.
   
-  •	Utilizes Convolutional Neural Networks (CNNs) for image feature extraction.
+    •	Utilizes Convolutional Neural Networks (CNNs) for image feature extraction.
   
-  •	Implements Recurrent Neural Networks (RNNs) for text generation.
+    •	Implements Recurrent Neural Networks (RNNs) for text generation.
   
-  •	Supports preprocessing and augmentation for enhanced performance.
+    •	Supports preprocessing and augmentation for enhanced performance.
 
 
 
 **Technologies Used**
 
-  •	**Programming Language**: Python
+    •	**Programming Language**: Python
   
-  •	**Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Matplotlib
+    •	**Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Matplotlib
   
-  •	**Deep Learning Techniques**: CNNs for image analysis, RNNs (LSTM/GRU) for text generation
+    •	**Deep Learning Techniques**: CNNs for image analysis, RNNs (LSTM/GRU) for text generation
 
 
 
@@ -60,16 +60,16 @@
 
 
 **Future Improvements**
-  •	Enhance model accuracy with transformer-based architectures like BERT or Vision Transformers.
+    •	Enhance model accuracy with transformer-based architectures like BERT or Vision Transformers.
   
-  •	Extend support for multilingual captioning.
+    •	Extend support for multilingual captioning.
   
-  •	Develop a user-friendly web application for live caption generation.
+    •	Develop a user-friendly web application for live caption generation.
 
 
 
 **Contributing**
-  Contributions are welcome! Please fork this repository and submit a pull request with your updates.
+    Contributions are welcome! Please fork this repository and submit a pull request with your updates.
 
 
 
