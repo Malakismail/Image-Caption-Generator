@@ -36,6 +36,7 @@
        •	Ensure images and captions are properly formatted.
 
   4. **Run the project:**
+     
        •	Preprocess the data:
            python preprocess_data.py  
 
