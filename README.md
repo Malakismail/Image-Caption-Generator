@@ -40,13 +40,13 @@
 
   4. **Run the project:**
      
-       # Preprocess the data:
+         # Preprocess the data:
            python preprocess_data.py  
 
-       # Train the model:
+         # Train the model:
            python train_model.py  
 
-       # Generate captions:
+         # Generate captions:
           python generate_caption.py --image_path <path_to_image>  
 
 
