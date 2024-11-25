@@ -72,5 +72,9 @@
 
 
 
-# Contact
-For any inquiries or support, please contact malakismail706@gmail.com
+## Contact
+For inquiries or collaboration opportunities, please reach out to me:
+
+**Name**: Malak Ismail  
+**Email**: malakismail706@gmail.com 
+**LinkedIn**: www.linkedin.com/in/malak-ismail-393148251
