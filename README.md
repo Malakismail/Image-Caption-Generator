@@ -7,8 +7,11 @@
 **Features**
 
   •	Automatically generates descriptive captions for images.
+  
   •	Utilizes Convolutional Neural Networks (CNNs) for image feature extraction.
+  
   •	Implements Recurrent Neural Networks (RNNs) for text generation.
+  
   •	Supports preprocessing and augmentation for enhanced performance.
 
 
@@ -33,9 +36,10 @@
 
   3. **Download the dataset:**
        •	Use any publicly available dataset (e.g., COCO Dataset) or custom data.
+     
        •	Ensure images and captions are properly formatted.
 
-  4. **Run the project:**
+  5. **Run the project:**
      
        •	Preprocess the data:
            python preprocess_data.py  
@@ -57,7 +61,9 @@
 
 **Future Improvements**
   •	Enhance model accuracy with transformer-based architectures like BERT or Vision Transformers.
+  
   •	Extend support for multilingual captioning.
+  
   •	Develop a user-friendly web application for live caption generation.
 
 
