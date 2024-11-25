@@ -1,13 +1,16 @@
 **Image Caption Generator**
+
   A deep learning project that generates meaningful captions for images by analyzing their content. This system combines computer vision and natural language processing techniques to describe the context of images accurately.
 
 **Features**
+
   •	Automatically generates descriptive captions for images.
   •	Utilizes Convolutional Neural Networks (CNNs) for image feature extraction.
   •	Implements Recurrent Neural Networks (RNNs) for text generation.
   •	Supports preprocessing and augmentation for enhanced performance.
 
 **Technologies Used**
+
   •	**Programming Language**: Python
   •	**Libraries and Frameworks**: TensorFlow, Keras, NumPy, Pandas, Matplotlib
   •	**Deep Learning Techniques**: CNNs for image analysis, RNNs (LSTM/GRU) for text generation
